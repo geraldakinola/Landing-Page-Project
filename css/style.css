@@ -5,12 +5,12 @@ body {
 }
 
 .gradient {
-    background: rgb(2, 0, 36);
-    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(159, 208, 255, 1) 0%, rgba(156, 247, 255, 1) 2%, rgba(0, 212, 255, 1) 100%);
+    background: rgb(0, 97, 242);
+    background: linear-gradient(135deg, rgba(0, 97, 242, 1) 0%, rgba(105, 0, 199, 1) 100%)
 }
 
 .page-header {
-    margin-top: 7rem;
+    margin-top: 8rem;
     font-size: 1.25rem;
     color: #fff
 }
