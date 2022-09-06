@@ -46,6 +46,13 @@ p {
     display: inline-flex;
     align-items: center;
     justify-content: center;
+}
 
 
+.gallery {
+    background-color: whitesmoke;
+}
+
+.gallery img {
+    border-radius: 5%;
 }
