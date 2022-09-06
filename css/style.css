@@ -19,3 +19,12 @@ body {
 p {
     font-size: 1.0rem;
 }
+
+.feature {
+    color: #fff;
+}
+
+.feature ul {
+    padding: 2rem;
+    list-style-type: none;
+}
