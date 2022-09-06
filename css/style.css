@@ -25,6 +25,14 @@ p {
 }
 
 .feature ul {
-    padding: 2rem;
+    padding: 1rem;
     list-style-type: none;
+}
+
+.feature ul li {
+    padding: 1rem;
+    background-image: url(../Images/icons8-checked-checkbox-24.png);
+    background-repeat: no-repeat;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
 }
